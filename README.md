@@ -24,6 +24,8 @@ Ofereça uma navegação simples e intuitiva
 Tenha um design alinhado às tendências atuais
 
 
+
+
 PROCESSO DE DESENVOLVIMENTO
 
 O projeto foi desenvolvido a partir de prototipações iniciais de design, criadas com base nas requisições do cliente, incluindo:
@@ -37,6 +39,8 @@ Organização do conteúdo
 Após a validação do design, o portfólio foi implementado utilizando tecnologias de programação web.
 
 
+
+
 TECNOLOGIAS UTILIZADAS
 
 HTML5
@@ -44,6 +48,8 @@ HTML5
 CSS3
 
 JavaScript
+
+
 
 
 📂 ESTRUTURA DO PROJETO
@@ -64,10 +70,14 @@ JavaScript
     └── ícones
 
 
+
+
 👤 CLIENTE
 
 Fipa View
 Publicitário
+
+
 
 👨‍💻 DESENVOLVIDO POR
 
