@@ -5,7 +5,9 @@ Este repositório contém o desenvolvimento de um portfólio pessoal criado para
 
 <img width="1679" height="803" alt="Captura de Tela 2026-02-11 às 11 22 52" src="https://github.com/user-attachments/assets/ca020ca5-3232-4891-ac63-08618fac022e" />
 
-<img width="1679" height="803" alt="Captura de Tela 2026-02-11 às 11 22 52" src="https://github.com/user-attachments/assets/433e5d23-292e-4cea-a156-53444fcd1af5" />
+
+<img width="1680" height="810" alt="Captura de Tela 2026-02-11 às 11 23 50" src="https://github.com/user-attachments/assets/eb96061f-05ea-48ac-b534-ba589a36866b" />
+
 
 
 
