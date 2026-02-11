@@ -72,4 +72,5 @@ Publicitário
 👨‍💻 DESENVOLVIDO POR
 
 Artur Rollemberg Camboim Guedes
+
 @arturguedes.dev
