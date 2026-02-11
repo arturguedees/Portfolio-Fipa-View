@@ -47,12 +47,19 @@ JavaScript
 
 
 📂 ESTRUTURA DO PROJETO
+
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 └── assets/
+
     ├── imagens
     └── ícones
 
